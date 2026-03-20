@@ -1,2 +1,3 @@
-# rapid-recommendation-engine-ukzm
-Automated issue comment bot repository
+# Rapid Recommendation Engine Ukzm
+
+Automated issue comment bot repository.
